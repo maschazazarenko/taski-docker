@@ -120,7 +120,6 @@ jobs:
           push: true
           tags: anikelka/taski_gateway:latest
 
-jobs:
   deploy:
     runs-on: ubuntu-latest
     needs:
